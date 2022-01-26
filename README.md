@@ -1,2 +1,2 @@
-# page-coordinate
-Finding the x and y coordinates on the page.
+# Page Coordinate
+Finding the x and y coordinates on the page. My first vue js project.
